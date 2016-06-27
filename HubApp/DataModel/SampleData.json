@@ -1,0 +1,108 @@
+{
+  "Groups": [
+    {
+      "UniqueId": "Group-1",
+      "Title": "Main Meals",
+      "Subtitle": "Group subtitle: 1",
+      "ImagePath": "Assets/Test.jpg",
+      "Description": "Recipes fot the main meals",
+      "Items": [
+        {
+          "UniqueId": "Group-1-Item-1",
+          "Title": "Biriani",
+          "Subtitle": "Item Subtitle: 1",
+          "ImagePath": "Assets/LightGray.png",
+          "Description": "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+          "Content": "Ingredients\n 1.1 kg potatoes\n 2.Basmati rice 2 kg"
+
+        },
+        {
+          "UniqueId": "Group-1-Item-2",
+          "Title": "Pilau",
+          "Subtitle": "Item Subtitle: 2",
+          "ImagePath": "Assets/DarkGray.png",
+          "Description": "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content": "Ingredients\n 1.1 kg potatoes\n 2.Basmati rice 2 kg"
+        },
+        {
+          "UniqueId": "Group-1-Item-3",
+          "Title": "Chapati",
+          "Subtitle": "Item Subtitle: 3",
+          "ImagePath": "Assets/MediumGray.png",
+          "Description": "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+          "Content": "Ingredients\n 1.1 kg potatoes\n 2.Basmati rice 2 kg"
+
+        },
+        {
+          "UniqueId": "Group-1-Item-4",
+          "Title": "Maandazi",
+          "Subtitle": "Item Subtitle: 4",
+          "ImagePath": "Assets/DarkGray.png",
+          "Description": "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+          "Content": "Ingredients\n 1.1 kg potatoes\n 2.Basmati rice 2 kg"
+        },
+        {
+          "UniqueId": "Group-1-Item-5",
+          "Title": "Tandoori",
+          "Subtitle": "Item Subtitle: 5",
+          "ImagePath": "Assets/DarkGray.png",
+          "Description": "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+         "Content": "Tandoori"
+        },
+           {
+          "UniqueId": "Group-1-Item-6",
+          "Title": "Coconut FIsh",
+          "Subtitle": "Item Subtitle: 6",
+          "ImagePath": "Assets/DarkGray.png",
+          "Description": "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+            "Content": "Fish"
+           },
+        {
+          "UniqueId": "Group-1-Item-7",
+          "Title": "COconut potato stew",
+          "Subtitle": "Item Subtitle: 7",
+          "ImagePath": "Assets/MediumGray.png",
+          "Description": "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+         "Content": "Ingredients\n 1.1 kg potatoes\n 2.Basmati rice 2 kg"
+        }
+      ]
+    },
+    {
+      "UniqueId": "Group-2",
+      "Title": "Desserts",
+      "Subtitle": "Group subtitle: 2",
+      "ImagePath": "Assets/LightGray.png",
+      "Description": "Recipes for the swahili desserts",
+      "Items": [
+        {
+          "UniqueId": "Group-2-Item-1",
+          "Title": "Custard",
+          "Subtitle": "Item Subtitle: 1",
+          "ImagePath": "Assets/DarkGray.png",
+          "Description": "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+          "Content": "Ingredients\n 1.1 kg potatoes\n 2.Basmati rice 2 kg"
+
+        },
+        {
+          "UniqueId": "Group-2-Item-2",
+          "Title": "Kheer",
+          "Subtitle": "Item Subtitle: 2",
+          "ImagePath": "Assets/MediumGray.png",
+          "Description": "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+          "Content": "Ingredients\n 1.1 kg potatoes\n 2.Basmati rice 2 kg"
+
+        },
+        {
+          "UniqueId": "Group-2-Item-3",
+          "Title": "Podini",
+          "Subtitle": "Item Subtitle: 3",
+          "ImagePath": "Assets/LightGray.png",
+          "Description": "Item Description: Pellentesque porta, mauris quis interdum vehicula, urna sapien ultrices velit, nec venenatis dui odio in augue. Cras posuere, enim a cursus convallis, neque turpis malesuada erat, ut adipiscing neque tortor ac erat.",
+          "Content": "Ingredients\n 1.1 kg potatoes\n 2.Basmati rice 2 kg"
+
+        }
+      ]
+    }
+
+  ]
+}
